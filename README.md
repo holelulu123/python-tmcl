@@ -130,7 +130,8 @@ The **🔄** button refreshes the list of available serial ports. If the icon ap
 ## 🛠️ Development
 
 ### Project Structure
-```
+
+
 python-tmcl/
 ├── TMCL/              # Core library package
 │   ├── __init__.py    # Main entry point
